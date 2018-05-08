@@ -1,9 +1,3 @@
-# Description
-
-Bachelor's thesis by [Björn Mattsson](https://www.linkedin.com/in/björn-mattsson-02357b70) and 
-[Olof Steinert](https://www.linkedin.com/in/olof-steinert/) in Economics at 
-[University of Gothenburg](http://handels.gu.se/).
-
 ## Abstract
 Estimating the risk of corporate bankruptcies is of large importance to creditors and investors. For this reason bankruptcy prediction constitutes an important area of research. In recent years artificial intelligence and machine learning methods have achieved promising results in corporate bankruptcy prediction settings. Therefore, in this study, three machine learning algorithms, namely random forest, gradient boosting and an artificial neural network were used to predict corporate bankruptcies. Polish companies between 2000 and 2013 were studied and the predictions were based on 64 different financial ratios.
 
